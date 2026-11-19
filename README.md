@@ -5,5 +5,6 @@ This repository collects links to great ressources (extenstions, packages, tutor
 ## Packages
 * [Drizzle CRUD](https://www.npmjs.com/package/drizzle-crud): A powerful TypeScript package that automatically generates CRUD operations for your Drizzle ORM schemas with built-in validation, filtering, pagination, soft deletes, and access control.
 * [Drizzle Plus](https://github.com/alloc/drizzle-plus/): A collection of useful utilities and extensions for Drizzle ORM.
+* [Drizzle Secrets](https://www.npmjs.com/package/drizzle-secrets): Encrypted columns for Drizzle ORM (AES-256-GCM). Reads are masked by default, plaintext only comes out through an explicit `expose()`, and multiple keys make key rotation possible without downtime.
 * [Drizzle Toolbelt](https://github.com/fredericoo/drizzle-toolbelt)
 * [Drizzle Transaction Context](https://github.com/nickdeis/drizzle-transaction-context): Implicit and execution scoped transactions/savepoints for drizzle-orm
